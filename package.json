@@ -1,0 +1,24 @@
+{
+  "name": "MUD",
+  "version": "1.0.0",
+  "description": "\"# Multi-User-Dungeon\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node server/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greeborox/Multi-User-Dungeon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greeborox/Multi-User-Dungeon/issues"
+  },
+  "homepage": "https://github.com/Greeborox/Multi-User-Dungeon#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
