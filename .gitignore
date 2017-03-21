@@ -2,4 +2,6 @@ node_modules/
 *.js
 *.js.map
 !systemjs.config.js
-typings/
+!gulpfile.js
+server/typings/
+dist/
